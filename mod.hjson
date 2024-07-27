@@ -1,0 +1,17 @@
+{
+    name: "samsaratexturepack",
+    repo: "BeaconMindustry/samsara-texture-pack",
+    minGameVersion: 145,
+    version: "135",
+
+    displayName: "samsara texture pack",
+    author: "{Beacon}",
+    subtitle: "this is something i made for samsara, nothing else",
+    description: hello
+'''
+Texture pack by beacon
+'''
+    hideBrowser: false,
+    hidden: true,
+    dependencies: []
+}
